@@ -32,4 +32,4 @@ Publicly available annual securities reports through Japan's EDINET system.
 ## Website
 
 
-https://dig-the-company.com/
+[https://dig-the-company.com/](https://dig-the-company.com/financial-note-for-llm.html)
